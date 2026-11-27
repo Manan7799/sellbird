@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://sellbird.ai">
     <picture>
@@ -256,3 +257,6 @@ See [CHANGELOG.md](CHANGELOG.md) for what changed in each release, and [follow @
 Sellbird is licensed under the [GNU Affero General Public License v3.0](LICENSE). Harvey releases up to 0.3.x were released under MIT, and that code keeps its MIT notice in [NOTICE](NOTICE).
 
 TrulyInbox links in this project are affiliate links: the maintainer may earn a commission, at no extra cost to you.
+=======
+# sellbird
+>>>>>>> 8867f6b0e3062e8cc5ed0f990d68d1523e0e2bee
